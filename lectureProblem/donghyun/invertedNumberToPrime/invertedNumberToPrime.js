@@ -24,7 +24,7 @@ const invertedNumberToPrime = (inputData) =>{
     numbers = numbers.split(" ");
     const result = [];
     Array.from({length:length},(v, i) => {
-        if(isPrime(Number(reverse(numbers[i])))) result.push(isPrime(Number(reverse(numbers[i]))));
+        if(isPrime(Number(reverseNum(numbers[i])))) result.push(isPrime(Number(reverseNum(numbers[i]))));
     });
     return result.join(" ");
 }
