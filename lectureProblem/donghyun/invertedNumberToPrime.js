@@ -1,6 +1,6 @@
-const reverse = (getNumber) => getNumber.split("").reverse().join("");
+const reverseNum = (getNumber) => getNumber.split("").reverse().join("");
 
-const reverse2 = (getNumber) => {
+const reverseNum2 = (getNumber) => {
     const result = [];
     for(i of getNumber){
         result.unshift(i);
