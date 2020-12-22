@@ -9,7 +9,6 @@ const reverseNum2 = (getNumber) => {
 }
 
 const isPrime = (num) => {
-    console.log(num);
     if(num <2) false;
     for(let i = 2; i*i <= num; i++){
         if( num % i ===0 ){
