@@ -1,5 +1,5 @@
-const prime = require("./lectureProblem/daehee/reversPrime/reverseprime.js")
+const score = require("./lectureProblem/daehee/calculatingscore.js")
 
 test("1 is 1", () => {
-  expect(prime.isPrime(71,15,32)).toBe("71 32")
+  expect(score.calculatingScore(10)).toBe("71 32")
 })
