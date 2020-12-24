@@ -1,5 +1,12 @@
-### 94parkdit :donghyun  폴더
-### zooragi : daehee 폴더
+## 소개
+친구와 함께하는 PS
+
+## 친구
+**94parkdit :donghyun  폴더**
+**zooragi : daehee 폴더**
+
+## 리뷰어 팀
+y0c,94parkdit,zooragi
 
 <details>
 <summary>2020/12/22 코드 구현력 기르기</summary>
