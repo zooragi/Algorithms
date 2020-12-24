@@ -1,3 +1,6 @@
+### 94parkdit :donghyun  폴더
+### zooragi : daehee 폴더
+
 <details>
 <summary>2020/12/22 코드 구현력 기르기</summary>
 - 뒤집은 소수
