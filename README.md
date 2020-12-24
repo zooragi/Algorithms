@@ -1,4 +1,6 @@
-# Algorithms
-solve algorithms
-
-친구와 함께 알고리즘을 풀어나가기 위해 만들었으며, 제가 푼 문제들은 동현에 들어가 있습니다.
+<details>
+<summary>2020/12/22 코드 구현력 기르기</summary>
+- 뒤집은 소수
+- 주사위 게임
+- 점수 계산
+</details
