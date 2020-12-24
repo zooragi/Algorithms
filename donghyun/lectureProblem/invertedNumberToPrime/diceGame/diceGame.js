@@ -6,7 +6,6 @@ const getDiceData = (input) =>{
 
     Array.from({length:length},(v,i) => {
         diceList[i] = diceList[i].split(" ").sort().map(Number);
-        console.log(diceList[i]);
         let temp = 0;
         if(diceList[i][0] === diceList[i][1] && diceList[i][0] === diceList[i][2]){
             temp = 10000 + diceList[i][0] * 1000;
