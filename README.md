@@ -6,7 +6,7 @@
 **zooragi : daehee 폴더**
 
 ## 리뷰어
-y0c,94parkdit,zooragi
+y0c, 94parkdit, zooragi
 
 ## 로그
 <details>
