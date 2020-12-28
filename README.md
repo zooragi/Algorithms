@@ -16,7 +16,8 @@ y0c, 94parkdit, zooragi
 - 점수 계산
 </details>
 <details>
-<summary>2020/12/22 탐색,시뮬레이션</summary>
+<summary>2020/12/23 탐색,시뮬레이션</summary>
 - 수들의 합
 - 격자판 회문수
 </details>
+
