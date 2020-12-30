@@ -1,5 +1,5 @@
-const add =(a,b) => a+b;
+const dice = require("./lectureProblem/daehee/dicegame.js")
 
 test("1 is 1", () => {
-    expect(add(5,6)).toBe(11);
-  })
+  expect(dice.diceGame(3)).toBe("71 32")
+})
